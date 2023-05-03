@@ -6,7 +6,7 @@
   <img src="logo jojo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>hello-microverse</b></h3>
+  <h3><b>mobil</b></h3>
 
 </div>
 
@@ -34,11 +34,11 @@
 
 
 
-# 📖 [hello-microvese] <a name="about-project"></a>
+# 📖 [mobil] <a name="about-project"></a>
 
 
 
-**[hello-microvese]** is just a siple HTML and CSS project using linters to demostrate my knowledge with HTML, CSS and GitHub
+**[mobil]** is just a siple HTML and CSS project using linters to demostrate my knowledge with HTML, CSS and GitHub
 
 ## 🛠 Built With <a name="built-with"></a>
 
