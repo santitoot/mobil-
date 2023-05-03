@@ -4,7 +4,7 @@ body {
   background-image: url("assets/header-shapes\ mobile.png");
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Poppins';
+  font-family: Poppins, sans-serif;
 }
 
 h1 {
