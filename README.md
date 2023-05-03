@@ -1,0 +1,2 @@
+# mobil-
+linters configuration 
